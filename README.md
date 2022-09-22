@@ -21,7 +21,7 @@ AzureAD login
 
 <img width="800" alt="Screenshot 2022-09-22 at 4 59 07 PM" src="https://user-images.githubusercontent.com/7415362/191663004-12e46e96-25cb-4aa2-a448-bba94b4e4105.png">
 
-Auth0 Successfull login
+AzureAD Successfull login
 
 <img width="800" alt="Screenshot 2022-09-22 at 4 59 46 PM" src="https://user-images.githubusercontent.com/7415362/191662972-9f749823-f33c-443e-9ef5-09a65dda461c.png">
 
