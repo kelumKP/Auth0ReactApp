@@ -1,4 +1,4 @@
-# Auth0 React SDK Sample Application
+# Auth0 React Sample App
 
 Preview 
 
