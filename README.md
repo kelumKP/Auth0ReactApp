@@ -1,5 +1,35 @@
 # Auth0 React SDK Sample Application
 
+Preview 
+
+<img width="800" alt="Screenshot 2022-09-22 at 4 58 17 PM" src="https://user-images.githubusercontent.com/7415362/191662931-7ae69839-ee8e-43b7-9e0f-b978d8278cbd.png">
+
+Login
+
+<img width="800" alt="Screenshot 2022-09-22 at 4 57 59 PM" src="https://user-images.githubusercontent.com/7415362/191662900-48ca1170-5a6b-44cc-a125-f81ebc54e429.png">
+
+Auth0 Successfull login
+
+<img width="800" alt="Screenshot 2022-09-22 at 4 58 33 PM" src="https://user-images.githubusercontent.com/7415362/191662785-3840fab8-a9dd-4563-acd6-712df580ce05.png">
+
+
+<img width="800" alt="Screenshot 2022-09-22 at 4 58 43 PM" src="https://user-images.githubusercontent.com/7415362/191662960-1f60c00d-e132-4aa7-8fe8-1814db44e253.png">
+
+-------------------------------------------------------------------------------------------------
+
+AzureAD login
+
+<img width="800" alt="Screenshot 2022-09-22 at 4 59 07 PM" src="https://user-images.githubusercontent.com/7415362/191663004-12e46e96-25cb-4aa2-a448-bba94b4e4105.png">
+
+Auth0 Successfull login
+
+<img width="800" alt="Screenshot 2022-09-22 at 4 59 46 PM" src="https://user-images.githubusercontent.com/7415362/191662972-9f749823-f33c-443e-9ef5-09a65dda461c.png">
+
+<img width="800" alt="Screenshot 2022-09-22 at 4 59 52 PM" src="https://user-images.githubusercontent.com/7415362/191662993-51fbb3b1-43b9-4185-b6da-0e5cefdc9a60.png">
+
+
+# Auth0 React SDK Sample Application
+
 This sample demonstrates the integration of [Auth0 React SDK](https://github.com/auth0/auth0-react) into a React application created using [create-react-app](https://reactjs.org/docs/create-a-new-react-app.html). The sample is a companion to the [Auth0 React SDK Quickstart](https://auth0.com/docs/quickstart/spa/react).
 
 This sample demonstrates the following use cases:
