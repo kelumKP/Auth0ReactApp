@@ -14,11 +14,8 @@ export const ExternalApiComponent = () => {
     error: null,
   });
 
-  const {
-    getAccessTokenSilently,
-    loginWithPopup,
-    getAccessTokenWithPopup,
-  } = useAuth0();
+  const { getAccessTokenSilently, loginWithPopup, getAccessTokenWithPopup } =
+    useAuth0();
 
   const handleConsent = async () => {
     try {
@@ -57,7 +54,7 @@ export const ExternalApiComponent = () => {
   const callApi = async () => {
     try {
       const token = await getAccessTokenSilently();
-
+      console.log(token);
       const response = await fetch(`${apiOrigin}/api/external`, {
         headers: {
           Authorization: `Bearer ${token}`,
